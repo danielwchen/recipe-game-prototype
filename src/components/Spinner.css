@@ -1,0 +1,11 @@
+.spinner {
+    width: 50px;
+    text-align: center;
+}
+
+.component-spinner {
+    margin-bottom: 10px;
+    border-width: 1px;
+    border-color: blue;
+    border-style: solid;
+}
